@@ -9,6 +9,6 @@
 const Crypto=require('./lib/Crypto');
 const Utils=require('./lib/Utils')
 
-export {
+module.exports= {
     Crypto,Utils
 }
