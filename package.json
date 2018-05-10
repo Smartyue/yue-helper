@@ -1,6 +1,6 @@
 {
   "name": "yue-helper",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "some global functions",
   "main": "index.js",
   "scripts": {
